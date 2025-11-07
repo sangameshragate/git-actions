@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
 
     container:
-      image: sangameshragate/my-first-app
+      image: sangameshragate/my-second-app
 
     steps:
       - uses: actions/checkout@v3
